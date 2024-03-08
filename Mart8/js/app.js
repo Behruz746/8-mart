@@ -56,7 +56,7 @@ var typewriter = new Typewriter(app, {
 typewriter
   .pauseFor(2000)
   .typeString(
-    "Sizga bahoriy kayfiyat tilayman, ruhingiz doimo yorug' va shod bo'lsin. Yuzingizdan doim tabassum bo'lishini tilayman, hayot sovg'alar bilan saxovatli bo'lsin. Ayollar kunida sizga oddiy ayollar baxti va sog'liq tilayman.  <br />   <strong<span style='background-image: linear-gradient(110deg, #ff6945 0%, #8047ca 100%);  -webkit-background-clip: text;  -webkit-text-fill-color: transparent; color: #121212;'>- Behruz Madaminov</span></strong>"
+    "Sizga bahoriy kayfiyat tilayman, ruhingiz doimo yorug' va shod bo'lsin. Yuzingizdan doim tabassum bo'lishini tilayman, hayot sovg'alar bilan saxovatli bo'lsin. Ayollar kunida sizga baxt va sog'liq tilayman. <br /><strong<span style='background-image: linear-gradient(110deg, #ff6945 0%, #8047ca 100%);  -webkit-background-clip: text;  -webkit-text-fill-color: transparent; color: #121212;'>- Behruz Madaminov</span></strong>"
   )
   .pauseFor(500)
   .deleteAll()
