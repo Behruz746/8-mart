@@ -54,7 +54,7 @@ var typewriter = new Typewriter(app, {
 })
 
 typewriter
-  .pauseFor(1000)
+  .pauseFor(2000)
   .typeString(
     "Bahor ruhini tilayman, ertaga doimo yorqin va xursand bo'lsin. Yuzda doimo tabassum yorqinlaydi, hayot sovg'alar bilan boy bo'lsin. Yilning eng ayol kuni bo'lsinida, oddiy ayol xursandchiligi va sog'ligini tilayman.  <br />   <strong<span style='background-image: linear-gradient(110deg, #ff6945 0%, #8047ca 100%);  -webkit-background-clip: text;  -webkit-text-fill-color: transparent; color: #121212;'>- Behruz Madaminov</span></strong>"
   )
